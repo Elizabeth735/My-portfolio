@@ -259,9 +259,20 @@ body {
   text-align: center;
 }
 
+.projects-heading {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1.2rem;
+}
+
 .project-item img {
   width: 100%;
   height: auto;
+  border-radius: 10px;
+  box-sizing: border-box;
+  /* max-width: 300px;*/
 }
 
 .project-description {
