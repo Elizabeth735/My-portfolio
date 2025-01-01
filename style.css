@@ -270,9 +270,10 @@ body {
 .project-item img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
-  box-sizing: border-box;
-  /* max-width: 300px;*/
+  border: 7px solid #94a7b4;
+  padding: 5px;
+  border-radius: 20px;
+  max-width: 300px;
 }
 
 .project-description {
